@@ -12,7 +12,7 @@ const firebaseConfig = {
   projectId: "todo-app-github-6a554",
   storageBucket: "todo-app-github-6a554.appspot.com",
   messagingSenderId: "591296535073",
-  appId: "1:591296535073:web:9d8a7079c88caa8314a160"
+  appId: "1:591296535073:web:9d8a7079c88caa8314a160",
 };
 
 // Initialize Firebase
